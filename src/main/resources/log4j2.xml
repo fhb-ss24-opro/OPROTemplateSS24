@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="debug" strict="true" name="XMLConfigTest">
+<Configuration status="info" strict="true" name="XMLConfigTest">
     <Properties>
         <Property name="filename">log/test.log</Property>
     </Properties>
