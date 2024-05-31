@@ -1,6 +1,6 @@
-package Rooms;
+package org.lecture.rooms;
 
-import Characters.Player;
+import org.lecture.Characters.Player;
 import org.lecture.AsciiStringHelper;
 import java.util.ArrayList;
 import java.util.List;

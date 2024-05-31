@@ -1,7 +1,7 @@
-package Rooms;
+package org.lecture.rooms;
 
-import Characters.Player;
-import GameLogic.DwarfDrinkingGame;
+import org.lecture.Characters.Player;
+import org.lecture.gamelogic.DwarfDrinkingGame;
 
 
 public class TavernRoom extends Room {

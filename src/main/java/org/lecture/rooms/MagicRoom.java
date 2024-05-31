@@ -1,7 +1,7 @@
-package Rooms;
+package org.lecture.rooms;
 
-import Characters.Player;
-import GameLogic.StoneScissorPaper;
+import org.lecture.Characters.Player;
+import org.lecture.gamelogic.StoneScissorPaper;
 
 public class MagicRoom extends Room {
 

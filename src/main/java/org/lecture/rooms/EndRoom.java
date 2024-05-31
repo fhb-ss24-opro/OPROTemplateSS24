@@ -1,6 +1,6 @@
-package Rooms;
+package org.lecture.rooms;
 
-import Characters.Player;
+import org.lecture.Characters.Player;
 
 public class EndRoom extends Room {
 

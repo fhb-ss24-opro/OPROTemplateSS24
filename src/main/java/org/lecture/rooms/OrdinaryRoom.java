@@ -1,9 +1,9 @@
-package Rooms;
+package org.lecture.rooms;
 
-import Characters.Farmer;
-import Characters.NPC;
-import Characters.Player;
-import Characters.Villager;
+import org.lecture.Characters.Farmer;
+import org.lecture.Characters.NPC;
+import org.lecture.Characters.Player;
+import org.lecture.Characters.Villager;
 
 import java.util.ArrayList;
 import java.util.List;

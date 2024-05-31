@@ -1,4 +1,4 @@
-package Rooms;
+package org.lecture.rooms;
 
 import java.util.concurrent.ThreadLocalRandom;
 

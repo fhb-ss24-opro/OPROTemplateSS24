@@ -1,6 +1,6 @@
-package GameLogic;
+package org.lecture.gamelogic;
 
-import Characters.Player;
+import org.lecture.Characters.Player;
 
 import java.util.Random;
 import java.util.Scanner;
