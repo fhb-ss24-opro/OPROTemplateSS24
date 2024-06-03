@@ -1,4 +1,4 @@
-package org.lecture.Characters;
+package Characters;
 
 public abstract class NPC {
 

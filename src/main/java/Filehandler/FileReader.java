@@ -1,6 +1,6 @@
-package org.lecture.Filehandler;
+package Filehandler;
 
-import org.lecture.Characters.Player;
+import Characters.Player;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.Files;

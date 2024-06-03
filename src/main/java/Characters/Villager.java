@@ -1,4 +1,4 @@
-package org.lecture.Characters;
+package Characters;
 
 public class Villager extends NPC{
 

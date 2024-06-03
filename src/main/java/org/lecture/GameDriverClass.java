@@ -1,8 +1,8 @@
 package org.lecture;
 
-import org.lecture.Characters.Player;
-import org.lecture.Filehandler.FileReader;
-import org.lecture.rooms.RoomManager;
+import Characters.Player;
+import Filehandler.FileReader;
+import Rooms.RoomManager;
 
 import java.util.HashMap;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package org.lecture.Characters;
+package Characters;
 
 import lombok.Getter;
 import lombok.Setter;

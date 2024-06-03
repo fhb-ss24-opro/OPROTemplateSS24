@@ -1,7 +1,7 @@
-package org.lecture.rooms;
+package Rooms;
 
-import org.lecture.Characters.Player;
-import org.lecture.gamelogic.TrapRoomQuest;
+import Characters.Player;
+import GameLogic.TrapRoomQuest;
 
 public class TrapRoom extends Room {
 
