@@ -45,7 +45,7 @@ class GameTests {
         assertNotNull(room, "Room should be created by factory.");
     }
 
-    private void provideInput(String data) {
+    void provideInput(String data) {
         ByteArrayInputStream testIn = new ByteArrayInputStream(data.getBytes());
         System.setIn(testIn);
     }
